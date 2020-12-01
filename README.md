@@ -45,7 +45,7 @@ __Built Using:__
     * [Express](https://expressjs.com/)
     * [React Toastify](https://www.npmjs.com/package/react-toastify)
 
-__Logo Created By Amber Robinson:__
+__Logo Created By Amber Robertson:__
   * [Ambers's GitHub](https://github.com/ambernina)
 
 ## License
